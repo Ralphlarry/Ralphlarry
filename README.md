@@ -1,4 +1,4 @@
-# Hi, I'm Lanre 👋
+# Hi, I'm Lanre 
 
 **Aspiring DevOps Engineer** · Lagos, Nigeria · 18 years in IT infrastructure → Cloud & DevOps
 

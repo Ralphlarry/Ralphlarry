@@ -1,6 +1,6 @@
 # Hi, I'm Lanre 
 
-**Aspiring DevOps Engineer** · Lagos, Nigeria · 18 years in IT infrastructure → Cloud & DevOps
+**DevOps Engineer** · Lagos, Nigeria · 18 years in IT infrastructure → Cloud & DevOps
 
 I spent 18 years managing physical servers, networks, and DR systems in Oil & Gas — and I've spent the last year rebuilding that foundation in the cloud. I document everything I build, including the mistakes.
 

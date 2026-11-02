@@ -14,8 +14,11 @@ Spring PetClinic microservices on AWS EKS, built on my own. Terraform creates th
 **[spring-petclinic-genai-chatbot](https://github.com/Ralphlarry/spring-petclinic-genai-chatbot)**
 My DMI capstone: an AI chat assistant added to the PetClinic app with Spring AI and Azure OpenAI, deployed to AKS with Helm and Azure Pipelines.
 
-**[epicbook-app](https://github.com/Ralphlarry/epicbook-app) and [epicbook-infra](https://github.com/Ralphlarry/epicbook-infra)**
-A Node.js and MySQL app on an Azure VM, run with Docker Compose behind Nginx. A multi-stage build cut the image from 2.12 GB to 94 MB, and an Azure DevOps pipeline takes it through staging to production.
+**[epicbook-infra](https://github.com/Ralphlarry/epicbook-infra) and [epicbook-app](https://github.com/Ralphlarry/epicbook-app)**
+A DMI project. I forked the course's book review app (Next.js, Express, MySQL), renamed it EpicBook and deployed it to Azure. Terraform creates the network, VMs and database, and Azure Pipelines runs Terraform and then Ansible on a self-hosted agent.
+
+**[theepicbook](https://github.com/Ralphlarry/theepicbook)**
+Another DMI project: the course's Express and Handlebars app containerised with a two-stage Dockerfile, Docker Compose, an Nginx reverse proxy and healthchecks.
 
 ## Coursework
 

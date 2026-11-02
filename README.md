@@ -12,7 +12,7 @@ I'm looking for a DevOps, cloud or platform engineering role, remote or in Lagos
 Spring PetClinic microservices on AWS EKS, built on my own. Terraform creates the platform, GitHub Actions builds the images, Argo CD deploys them, and HPA and Karpenter handle scaling. The cluster is shut down between runs to save cost, and `make up` rebuilds it.
 
 **[spring-petclinic-genai-chatbot](https://github.com/Ralphlarry/spring-petclinic-genai-chatbot)**
-My DMI capstone: an AI chat assistant added to the PetClinic app with Spring AI and Azure OpenAI, deployed to AKS with Helm and Azure Pipelines.
+My part of DMI Group 9's final project: getting the PetClinic app's AI chat service working on Azure OpenAI with Spring AI. The group deployed the app to AKS with Helm and Azure Pipelines.
 
 **[epicbook-infra](https://github.com/Ralphlarry/epicbook-infra) and [epicbook-app](https://github.com/Ralphlarry/epicbook-app)**
 A DMI project. I forked the course's book review app (Next.js, Express, MySQL), renamed it EpicBook and deployed it to Azure. Terraform creates the network, VMs and database, and Azure Pipelines runs Terraform and then Ansible on a self-hosted agent.

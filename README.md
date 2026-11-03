@@ -9,7 +9,7 @@ I'm looking for a DevOps, cloud or platform engineering role, remote or in Lagos
 ## Projects
 
 **[petclinic-infrastructure](https://github.com/Ralphlarry/petclinic-infrastructure)**
-Spring PetClinic microservices on AWS EKS, built on my own. Terraform creates the platform, GitHub Actions builds the images, Argo CD deploys them, and HPA and Karpenter handle scaling. The cluster is shut down between runs to save cost, and `make up` rebuilds it.
+Spring PetClinic microservices on AWS EKS, built on my own. Terraform creates the platform, GitHub Actions builds the images, Argo CD deploys them, and HPA and Karpenter handle scaling. The cluster is shut down between runs to save cost. `make up` runs Terraform and installs the add-ons and Argo CD.
 
 **[spring-petclinic-genai-chatbot](https://github.com/Ralphlarry/spring-petclinic-genai-chatbot)**
 My part of DMI Group 9's final project: getting the PetClinic app's AI chat service working on Azure OpenAI with Spring AI. The group deployed the app to AKS with Helm and Azure Pipelines.
